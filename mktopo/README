@@ -1,1 +1,13 @@
-a collection of router management tools
+
+
+mktopo.pl 
+
+the intent here is to take a directory full of cisco router configuration
+files and generate the appropriate DOT file output.
+
+at some point the router tools from ISC broke for me and i figured i should
+probably hack away at this myself to get what i wanted.  
+
+if you have folks dump a crapload of configurations in your lap and ask you to
+make heads or tails of things, this might be very useful to you.
+

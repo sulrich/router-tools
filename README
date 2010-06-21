@@ -1,0 +1,20 @@
+# -*- Mode: org; tab-width: 2 -*- *
+
+* license
+
+this seems to be the most reasonable.
+
+http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
+
+* router-tools overview
+
+router-tools is a collection of scripts and hacks which folks might find
+useful. i'll add to / edit these as appropriate.  some of these line up
+nicely with the router tools from the ISC folks. 
+
+mktopo.pl - this will take a passel of cisco router configurations and 
+generate a graphviz dot file (or a PNG if you're in an hurry) that will show
+you which interfaces are associated with other interfaces and how things
+connect to each other.  some disambiguation of SVIs is integrated in this.
+
+

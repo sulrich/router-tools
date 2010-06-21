@@ -1,6 +1,7 @@
 #!/opt/local/bin/perl
 #
 # -*- Mode: perl; tab-width: 2 -*- *
+#
 # parse a configuration file - determine the hostname from the configuration
 # sniff the relevant interfaces and grab relevant IP address information.
 #
